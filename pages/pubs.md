@@ -18,8 +18,8 @@ description: Karl Broman's publications
         </ul>
     </div>
 </div>
--->
 
 
 ### <a name="articles"></a>journal articles
+-->
 <b>R. X. Lei<b>, A. Gelman, and Y. Ghitza, Y. “The 2008 election: A preregistered replication analysis”. Statistics and Public Policy, 2017.
