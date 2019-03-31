@@ -15,7 +15,6 @@ keywords: Lei
 </div>
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span2">
