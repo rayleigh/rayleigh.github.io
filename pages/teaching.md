@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teaching
-description: Karl Broman's teaching
+description: Rayleigh Lei's teaching
 ---
 
 <!--
@@ -17,4 +17,9 @@ description: Karl Broman's teaching
 </div>
 -->
 
-I was a GSI for Stats 250, 
+I was a Graduate Student Instructor for:
+* Stats 499 - Honors Seminar (Fall 2018)
+* Stats 503 - Statistical Learning II: Multivariate Analysis (Winter 2018)
+* Stats 408 - Statistical Principles for Problem Solving: A Systems Approach (Fall 2017)
+* Stats 412 - Introduction to Probability & Statistics (Winter 2017)
+* Stats 250 - Introduction to Statistics and Data Analysis (Fall 2016)

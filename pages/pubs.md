@@ -1,7 +1,7 @@
 ---
 layout: page
 title: publications
-description: Karl Broman's publications
+description: Rayleigh Lei's publications
 ---
 
 <!--
@@ -22,4 +22,4 @@ description: Karl Broman's publications
 
 ### <a name="articles"></a>journal articles
 -->
-<b>R. X. Lei<b>, A. Gelman, and Y. Ghitza, Y. “The 2008 election: A preregistered replication analysis”. Statistics and Public Policy, 2017.
+<b>R. X. Lei<b>, A. Gelman, and Y. Ghitza, Y. “The 2008 election: A preregistered replication analysis”. Statistics and Public Policy, 2017. [https://amstat.tandfonline.com/doi/abs/10.1080/2330443X.2016.1277966](https://amstat.tandfonline.com/doi/abs/10.1080/2330443X.2016.1277966).
