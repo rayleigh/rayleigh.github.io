@@ -18,8 +18,8 @@ keywords: Lei
 
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/small_profile_pic_2.jpg">
-            <img src="../assets/pics/small_profile_pic_2.jpg"
+        <a href="../assets/pics/small_profile_pic_2.png">
+            <img src="../assets/pics/small_profile_pic_2.png"
                   alt="Rayleigh Lei"/></a>
         </div>
 
