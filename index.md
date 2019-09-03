@@ -8,7 +8,7 @@ keywords: Lei
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/rayleigh_lei_cv">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/rayleigh_lei_cv.pdf">cv</a></li>
           <li><a href="https://github.com/rayleigh">github</a></li>
       </ul>
   </div>
@@ -18,13 +18,13 @@ keywords: Lei
 
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/small_profile_pic.jpg">
-            <img src="../assets/pics/small_profile_pic.jpg"
+        <a href="../assets/pics/small_profile_pic_2.jpg">
+            <img src="../assets/pics/small_profile_pic_2.jpg"
                   alt="Rayleigh Lei"/></a>
         </div>
 
         <div class="span5">
-Hi, I’m Rayleigh, a third-year statistics Ph.D. student at the University of Michigan. I work with <a href = "http://dept.stat.lsa.umich.edu/~xuanlong/">Prof. Long Nguyen</a> on clustering and modeling datasets that have few explanatory variables, but relationships worth discovering. For instance, I have been developing models to transform data on simplexes to model changes in neighborhood income proportions. Another area I am interested in exploring more is Bayesian computation. My research is supported by a NSF Graduate Research Fellowship.
+Hi, I’m Rayleigh, a fourth-year statistics Ph.D. student at the University of Michigan. I work with <a href = "http://dept.stat.lsa.umich.edu/~xuanlong/">Prof. Long Nguyen</a> on clustering and modeling datasets that have few explanatory variables, but relationships worth discovering. For instance, I have been developing models to transform data on simplexes to model changes in neighborhood income proportions. Another area I am interested in exploring more is Bayesian computation. My research is supported by a NSF Graduate Research Fellowship.
 <br/>
 <br/>
 
