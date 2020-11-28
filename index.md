@@ -24,7 +24,7 @@ keywords: Lei
         </div>
 
         <div class="span5">
-Hi, I’m Rayleigh, a fourth-year statistics Ph.D. student at the University of Michigan. I work with <a href = "http://dept.stat.lsa.umich.edu/~xuanlong/">Prof. Long Nguyen</a> on clustering and modeling datasets that have few explanatory variables, but relationships worth discovering. For instance, I have been developing models to transform data on simplexes to model changes in neighborhood income proportions. Another area I am interested in exploring more is Bayesian computation. My research is supported by a NSF Graduate Research Fellowship.
+Hi, I’m Rayleigh, a fifth-year statistics Ph.D. student at the University of Michigan. I work with <a href = "http://dept.stat.lsa.umich.edu/~xuanlong/">Prof. Long Nguyen</a> to develop, fit, and understand the statistical properties of Bayesian models. My research is motivated by data sets with interesting phenomena, but few variables to describe or explain the phenomena. For instance, I have been developing models to transform data on simplexes to model changes in neighborhood income proportions. My research is supported by a NSF Graduate Research Fellowship.
 <br/>
 <br/>
 
