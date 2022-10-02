@@ -18,6 +18,8 @@ description: Rayleigh Lei's teaching
 -->
 
 I was a Graduate Student Instructor for:
+* Stats 511 - Statistical Inference (Spring 2022)
+* STATS 501 - Applied Statistics II (Fall 2021)
 * Stats 499 - Honors Seminar (Fall 2018)
 * Stats 503 - Statistical Learning II: Multivariate Analysis (Winter 2018)
 * Stats 408 - Statistical Principles for Problem Solving: A Systems Approach (Fall 2017)
