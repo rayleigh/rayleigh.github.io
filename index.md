@@ -25,6 +25,8 @@ keywords: Lei
 
         <div class="span5">
 Hi, I’m Rayleigh, a post-doc at the University of Washington. My research is motivated by data sets with interesting phenomena, but few variables to describe or explain the phenomena. As a result, I aim to develop, fit, and understand the statistical properties of Bayesian models. Currently, I am working with <a href = "https://sites.stat.washington.edu/people/abelrod/Home.html">Prof. Abel Rodriguez</a> on creating circular models to better represent the ideological positions of politicians and judges.
+<br/>
+<br/>
 
 I obtained my Ph.D. from the University of Michigan. My advisor was <a href = "http://dept.stat.lsa.umich.edu/~xuanlong/">Prof. Long Nguyen</a>. I built models to transform data on simplexes to model changes in neighborhood income proportions. My PhD research also included establishing identifiability and posterior consistency conditions for and designing geometric algorithms to fit tree-based mixtures of topic models. A NSF Graduate Research Fellowship supported my PhD work.
 <br/>
