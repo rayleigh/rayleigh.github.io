@@ -19,8 +19,10 @@ description: Rayleigh Lei's publications
         </ul>
     </div>
 </div>
+-->
 
 ### <a name="articles"></a>upcoming articles
+
 -->
 **Rayleigh Lei**, Sunrit Chakraborty, and XuanLong Nguyen. 2023. Modeling tree-based Mixtures of Probability Simplices. 
 
