@@ -30,7 +30,7 @@ description: Rayleigh Lei's publications
 **Rayleigh Lei** and Abel Rodriguez. 2023. Logistic Unfolding Models for Binary Preference Data.
 
 -->
-**Rayleigh Lei** and XuanLong Nguyen. 2023. Modeling random directions of changes in simplex-valued data. Submitted to Statistical Modelling. [https://arxiv.org/abs/2310.19985](https://arxiv.org/abs/2310.19985).
+**Rayleigh Lei** and XuanLong Nguyen. 2023. Modeling Random Directions of Changes in Simplex-valued Data. Submitted to Statistical Modelling. [https://arxiv.org/abs/2310.19985](https://arxiv.org/abs/2310.19985).
 <br/>
 <br/>
 
