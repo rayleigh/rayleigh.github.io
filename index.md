@@ -36,7 +36,7 @@ I received my BA in mathematics from Columbia University. Before starting my Ph.
 <br/>
 <br/>
 
-I can be reached at rlei13<code>@</code>uw.edu.
+I can be reached at rayleigh<code>@</code>umich.edu.
         </div>
      </div>
 </div>
