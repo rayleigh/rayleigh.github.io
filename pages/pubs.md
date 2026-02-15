@@ -32,7 +32,7 @@ description: Rayleigh Lei's publications
 Skylar Shi, **Rayleigh Lei**, and Abel Rodriguez. 2026. pumBayes: Bayesian Estimation of Probit Unfolding Models for Binary Preference Data in R. *Under revision for the Journal of Open Research Software*.
 
 -->
-Marianne Huebner, Rayleigh Lei, and Tim Cole. 2026. Comparing weightlifting performance of Masters athletes across age, body mass, and sex from 2000 to 2025. *Revised and resubmitted to International Journal of Sports Physiology and Performance*.
+Marianne Huebner, **Rayleigh Lei**, and Tim Cole. 2026. Comparing weightlifting performance of Masters athletes across age, body mass, and sex from 2000 to 2025. *Revised and resubmitted to International Journal of Sports Physiology and Performance*.
 
 <br/>
 <br/>
