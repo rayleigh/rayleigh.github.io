@@ -26,8 +26,7 @@ description: Rayleigh Lei's publications
 **Rayleigh Lei** and Abel Rodriguez. 2026. Modeling Ordinal Survey Data with Unfolding Models. *Submitted to Psycometrika*. [https://arxiv.org/abs/2601.19167](https://arxiv.org/abs/2601.19167).
 
 -->
-**Rayleigh Lei** and Yajuan Si. 2026. Calibrating hierarchical Bayesian domain inference
-for a proportion. *Submitted to Journal of Survey Statistics and Methodology*. [https://arxiv.org/abs/2512.18479](https://arxiv.org/abs/2512.18479).
+**Rayleigh Lei** and Yajuan Si. 2026. Calibrating hierarchical Bayesian domain inference for a proportion. *Submitted to Journal of Survey Statistics and Methodology*. [https://arxiv.org/abs/2512.18479](https://arxiv.org/abs/2512.18479).
 
 -->
 Skylar Shi, **Rayleigh Lei**, and Abel Rodriguez. 2026. pumBayes: Bayesian Estimation of Probit Unfolding Models for Binary Preference Data in R. *Under revision for the Journal of Open Research Software*.
